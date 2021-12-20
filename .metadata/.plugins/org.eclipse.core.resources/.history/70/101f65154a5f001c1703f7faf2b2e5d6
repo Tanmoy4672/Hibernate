@@ -1,0 +1,24 @@
+package com.pagination;
+
+import org.hibernate.query.Query;
+
+import com.hql.Student;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class HQLPagination {
+	public static void main(String[] args) {
+        
+		SessionFactory factory = new Configuration().configure().buildSessionFactory();
+	Session session = factory.openSession();
+	
+	Query<Student> query = session.createQuery("from Student");
+	
+	//implementing pegination using hibernate
+	
+	session.close();
+	factory.close();
+	}
+}

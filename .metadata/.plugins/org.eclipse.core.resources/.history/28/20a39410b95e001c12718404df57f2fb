@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Note Taker :Edit Page</title>
+<%@include file="All_js_css.jsp"%>
+</head>
+<body>
+
+	<div class="container-fluid p-0 m-0">
+		<%@include file="Navbar.jsp"%>
+		<h1>This i edit page.</h1>
+		<%
+		int noteId = Integer.parseInt(request.getParameter("note_id").trim());
+
+		Session se = FactoryProvider.geFactory().openSession();
+		Note note = (Note) se.get(Note.class, noteId);
+		%>
+
+	</div>
+
+</body>
+</html>

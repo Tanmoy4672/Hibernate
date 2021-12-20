@@ -1,0 +1,26 @@
+package com.tut;
+
+import java.util.List;
+import org.hibernate.Criteria;
+import org.hibernate.Session;
+import org.hibernate.cfg.Configuration;
+import org.hibernate.criterion.Restrictions;
+
+public class testCeriteria {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Session session = new Configuration().configure().buildSessionFactory().openSession();
+		
+		Criteria cs = session.createCriteria(Student.class);
+		
+		cs.add(Restrictions.eq("certi.Course", "Java"));
+		
+		List<Student> students = cs.list();
+		for(Student s:students) {
+			System.out.println(s);
+		}
+	}
+
+}

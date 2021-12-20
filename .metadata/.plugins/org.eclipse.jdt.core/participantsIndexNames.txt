@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+D:\JAVA code\Eclipse_code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1716854467.index
+\ListTaker\src\main\java
+D:\JAVA code\Eclipse_code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3913414311.index
+\NoteTaker\src\main\java
+D:\JAVA code\Eclipse_code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3070891571.index
+\SpringMVCProject\src\main\java
+D:\JAVA code\Eclipse_code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2675436205.index
+\SpringMVCProject\src\main\resources
+D:\JAVA code\Eclipse_code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2389236961.index
+\NoteTaker\src\main\java
+D:\JAVA code\Eclipse_code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1080492433.index
+\MavenSpringMvcProject\src\main\resources

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\JAVA code\Eclipse_code"/>
+			<item value="D:\JAVA code\Eclipse_code\StateDemo"/>
+			<item value="D:\JAVA code\Eclipse_code\MavenFifthProject"/>
+			<item value="D:\JAVA code\Eclipse_code\ProjectWithMaven"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.second"/>
+			<item value="com.secondChach.SpringMVCProject"/>
+			<item value="com.secondChach.MavenSpringMvcProject"/>
+			<item value="com.secondChach"/>
+			<item value="com.todo"/>
+			<item value="com.tut"/>
+			<item value="com.state"/>
+			<item value="com.tut.MaveNFourthProject"/>
+			<item value="com.tut.ProjectWithMaven2"/>
+			<item value="com.tut.co.tut"/>
+			<item value="com.tut.com.tut"/>
+		</list>
+		<list key="groupId">
+			<item value="com.secondChach"/>
+			<item value="com.todo"/>
+			<item value="com.tut"/>
+		</list>
+		<list key="artifactId">
+			<item value="HibernateXMLMapping"/>
+			<item value="SpringMVCProject"/>
+			<item value="MavenSpringMvcProject"/>
+			<item value="SecondChach"/>
+			<item value="NoteTaker"/>
+			<item value="ListTaker"/>
+			<item value="HibernateProject"/>
+			<item value="StateDemo"/>
+			<item value="MavenSixthProject"/>
+			<item value="MaveNFourthProject"/>
+			<item value="MavenFourthProject"/>
+			<item value="MavenThirdProject"/>
+			<item value="MavenSecondProject"/>
+			<item value="MavenFirstProject"/>
+			<item value="WhereDependency"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>

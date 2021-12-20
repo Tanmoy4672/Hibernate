@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0" value="140"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1" value="270"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2" value="118"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=test/C:\/Program Files\/Apache Software Foundation\/Tomcat 9.0_Tomcat9_Tanmoy\/lib\/catalina.jar=/owner.project.facets=/jst.web=/=/javadoc_location=/https:\/\/tomcat.apache.org\/tomcat-9.0-doc\/api\/=/&amp;lt;org.apache.catalina.realm(AuthenticatedUserRealm.class[AuthenticatedUserRealm&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=test/C:\/Program Files\/Apache Software Foundation\/Tomcat 9.0_Tomcat9_Tanmoy\/lib\/catalina.jar=/owner.project.facets=/jst.web=/=/javadoc_location=/https:\/\/tomcat.apache.org\/tomcat-9.0-doc\/api\/=/&amp;lt;org.apache.catalina.startup(Tomcat.class[Tomcat&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=HQLProjectWithMaven/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.hql{HQLExample.java[HQLExample&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=HQLProjectWithMaven/C:\/Users\/User\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.6.1.Final\/hibernate-core-5.6.1.Final.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.6.1.Final=/=/maven.scope=/compile=/&amp;lt;org.hibernate.internal.util.collections(ArrayHelper.class[ArrayHelper&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=HibernateXMLMapping/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.mapping.xml{test.java[test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="31"/>
+			<item key="DIALOG_Y_ORIGIN" value="286"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.PACKAGE_SELECTION_DIALOG_SECTION">
+		<item key="DIALOG_X_ORIGIN" value="84"/>
+		<item key="DIALOG_Y_ORIGIN" value="-120"/>
+		<item key="DIALOG_WIDTH" value="658"/>
+		<item key="DIALOG_HEIGHT" value="711"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

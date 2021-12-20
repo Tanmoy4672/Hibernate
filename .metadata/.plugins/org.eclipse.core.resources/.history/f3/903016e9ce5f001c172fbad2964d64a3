@@ -1,0 +1,23 @@
+package com.firstChach;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+import com.hql.Student;
+
+public class FirstChachDemo {
+
+	public static void main(String[] args) {
+		
+		SessionFactory factory = new Configuration().configure().buildSessionFactory();
+		Session session = factory.openSession();
+
+		//by default enable
+		
+		Student student = session.get(Student.class, 1044);
+		
+		
+		session.close();
+	}
+}

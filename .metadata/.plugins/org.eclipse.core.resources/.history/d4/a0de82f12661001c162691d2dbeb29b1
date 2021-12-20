@@ -1,0 +1,20 @@
+package com.entities;
+
+import java.util.Date;
+
+public class Todo {
+
+	private String todoTitle;
+	private String todoContent;
+	private Date todoDate;
+	
+	
+	public Todo(String todoTitle, String todoContent, Date todoDate) {
+		super();
+		this.todoTitle = todoTitle;
+		this.todoContent = todoContent;
+		this.todoDate = todoDate;
+	}
+	
+	
+}

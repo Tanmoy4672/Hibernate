@@ -1,0 +1,34 @@
+<%@page import="com.helper.FactoryProvider"%>
+<%@page import="org.hibernate.Session"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>All Notes : Note Taker</title>
+<%@include file="All_js_css.jsp"%>
+</head>
+<body>
+    <div class="container-fluid">
+		<%@include file="Navbar.jsp"%>
+		<br>
+		<h1 class="text-uppercase">All Notes :</h1>
+		
+		<%
+		Session s = FactoryProvider.geFactory().openSession();
+		
+		s.createQuery(deleteQuery)
+		
+		
+		s.close();
+		%>
+		
+	</div>
+
+
+
+
+
+</body>
+</html>
