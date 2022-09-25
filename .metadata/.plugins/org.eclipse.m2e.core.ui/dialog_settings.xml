@@ -29,10 +29,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.secondChach"/>
 			<item value="com.second"/>
 			<item value="com.secondChach.SpringMVCProject"/>
 			<item value="com.secondChach.MavenSpringMvcProject"/>
-			<item value="com.secondChach"/>
 			<item value="com.todo"/>
 			<item value="com.tut"/>
 			<item value="com.state"/>
